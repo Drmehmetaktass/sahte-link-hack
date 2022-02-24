@@ -18,3 +18,13 @@ apt update ; apt install git -y ; git clone git://github.com/htr-tech/nexphisher
 ```
 
 
+## BİZİMLE İLETİŞİME GEÇİN :
+
+<a href="https://github.com/Drmehmetaktass"><img title="Github" src="https://img.shields.io/badge/dr-mehmet-brightgreen?style=for-the-badge&logo=github"></a>
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/dr.mehmetaktass?utm_medium=copy_link)
+[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/TURKCBOT)
+
+
+
+## UYARI :
+***Bu araç sadece eğitim amaçlıdır. Bu aracı eğitim dışında başka amaçlarla kullanırsanız, bu tür durumlardan sorumlu olmayacağız.***
